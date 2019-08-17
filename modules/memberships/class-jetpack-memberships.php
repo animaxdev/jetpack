@@ -289,7 +289,7 @@ class Jetpack_Memberships {
 	}
 
 	/**
-	 * Whether Memberships (aka Recurring Payments) are enabled.
+	 * Whether Recurring Payments are enabled.
 	 *
 	 * @return bool
 	 */
